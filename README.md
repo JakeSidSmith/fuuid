@@ -8,7 +8,7 @@ Unlike a standard UUID, FUUID has the following benefits:
 
 2. More unique than most UUIDs
 
-3. Readable, and therefore great for URLs e.g. `https://domain.com/post/bugger-crap-shit-fuck-crap-fuck-twat-twat-fucked-arse-bitch-bitch-head-butt-fucking-shite-dick-bollocks-bastard-shit-crap-twat-crap-bastard-shitting-shitting-shite-fucking-twat-ass-you-twat`
+3. Readable, and therefore great for URLs e.g. `https://domain.com/post/cunt-fucked-cunt-bollocks-git-bloody-prat-face-you-damn-dick-cunt-face-douche-bollocks-fuck-butt-fuck-fuck-fucking-jeb-twat-darn-tosser-bastard-you-prat-shit-dickhead-face-cunt-wanker`
 
 ## Installation
 
@@ -36,15 +36,15 @@ console.log(fuuid());
 
 Example output:
 ```
-wank-cock-butt-dick-fucked-head-fucker-arse-bitch-cock-face-shit-bitch-crap-head-fucked-fucker-you-butt-face-fucker-face-wank-bugger-shitting-twat-head-crap-face-wanker-wank-fuck
+bitch-jeb-jeb-arse-shite-bastard-arsehole-wanker-fucker-fuck-bastard-fuck-nob-damn-wank-fucked-wanker-nob-jeb-dick-git-piss-jeb-fucked-head-pillock-shite-bastard-face-butt-fucking-pillock
 
-shit-dick-shite-bitch-cunt-crap-cock-bastard-you-fucker-cock-face-wanking-shite-fuck-wank-crap-wanker-shite-fucking-fucked-bollocks-bastard-bollocks-head-bitch-fuck-fucker-bitch-nob-shite-dick
+pillock-ass-bastard-cunt-douche-bugger-fuck-prat-git-wanking-wanking-you-fuck-shitting-dickhead-bellend-pillock-butt-crap-jeb-shit-nob-twat-dickhead-fucked-bloody-bellend-bitch-asshole-fuck-git-bitch
 
-wanker-bugger-bitch-wank-wanker-face-bitch-bugger-crap-face-cunt-bitch-bollocks-fucker-shitting-twat-butt-face-ass-fucker-cock-bugger-head-bugger-face-bastard-wanker-face-nob-bastard-fucking-fucker
+douche-dave-prick-cock-asshole-wanking-bellend-nob-wanker-shite-tosser-shite-butt-you-bastard-ass-wanker-shite-fucking-bell-jeb-arsehole-shitting-ass-git-butt-wanking-bellend-butt-douche-butt-shite
 
-fuck-wank-shit-shitting-fuck-wanker-fucking-fuck-you-bastard-fucked-ass-wanker-bugger-bitch-fucking-wanker-ass-twat-cunt-wank-nob-fuck-nob-fucker-crap-cock-fuck-crap-twat-fucking-fucking
+pillock-darn-dave-dave-nob-bell-cunt-face-prat-face-bastard-arse-ass-jeb-fuck-head-fucking-piss-arse-fucked-jeb-asshole-bugger-crap-prat-pillock-fucker-jeb-bellend-dave-bellend-tosser
 
-cunt-nob-head-fuck-bastard-nob-cunt-fucked-face-arse-crap-face-twat-fucking-bitch-twat-twat-wanker-bitch-bugger-wank-twat-face-shitting-twat-cock-shitting-cunt-twat-you-head-wanker
+cunt-fucked-cunt-bollocks-git-bloody-prat-face-you-damn-dick-cunt-face-douche-bollocks-fuck-butt-fuck-fuck-fucking-jeb-twat-darn-tosser-bastard-you-prat-shit-dickhead-face-cunt-wanker
 ```
 
 To get a censored version of an FUUID simply supply `true` as the only argument to the `fuuid` function.
@@ -55,5 +55,5 @@ console.log(fuuid(true));
 
 Example output:
 ```
-***-****-****-****-****-****-******-****-*******-***-****-*******-****-********-****-*****-****-****-*****-******-***-******-****-******-****-******-****-******-*******-********-****-******
+***-***-***-****-****-***-****-********-****-****-****-****-****-****-********-******-****-****-****-*******-********-****-****-****-****-****-******-****-********-****-****-*******
 ```
