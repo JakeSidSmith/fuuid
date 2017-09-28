@@ -1,6 +1,6 @@
 {
   "name": "fuuid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fucking universally unique identifiers",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
