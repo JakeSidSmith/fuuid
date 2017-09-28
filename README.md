@@ -37,6 +37,7 @@ console.log(fuuid());
 ```
 
 Example output:
+
 ```
 bitch-jeb-jeb-arse-shite-bastard-arsehole-wanker-fucker-fuck-bastard-fuck-nob-damn-wank-fucked-wanker-nob-jeb-dick-git-piss-jeb-fucked-head-pillock-shite-bastard-face-butt-fucking-pillock
 
@@ -56,6 +57,7 @@ console.log(fuuid(true));
 ```
 
 Example output:
+
 ```
 ***-***-***-****-****-***-****-********-****-****-****-****-****-****-********-******-****-****-****-*******-********-****-****-****-****-****-******-****-********-****-****-*******
 ```
