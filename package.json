@@ -1,0 +1,27 @@
+{
+  "name": "fuuid",
+  "version": "0.0.0",
+  "description": "Fucking universally unique identifiers",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run lint-js && npm run tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakeSidSmith/fuuid.git"
+  },
+  "keywords": [
+    "uuid",
+    "fucking",
+    "fuck",
+    "universally",
+    "unique",
+    "identifier"
+  ],
+  "author": "Jake 'Sid' Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JakeSidSmith/fuuid/issues"
+  },
+  "homepage": "https://github.com/JakeSidSmith/fuuid#readme"
+}
