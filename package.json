@@ -5,6 +5,8 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
+    "prepublish": "npm run dist",
+    "dist": "./scripts/dist",
     "lint-js": "tslint --project tsconfig.json --type-check '@(src|tests|types|docs)/**/*.@(ts|tsx)'",
     "tests": "jest",
     "test": "npm run lint-js && npm run tests -- --coverage"
