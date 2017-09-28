@@ -25,4 +25,5 @@ export const terms = [
   'bastard',
   'bitch',
   'bollocks',
+  'dave',
 ];
