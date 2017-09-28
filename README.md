@@ -38,16 +38,16 @@ console.log(fuuid());
 
 Example output:
 
-```
-bitch-jeb-jeb-arse-shite-bastard-arsehole-wanker-fucker-fuck-bastard-fuck-nob-damn-wank-fucked-wanker-nob-jeb-dick-git-piss-jeb-fucked-head-pillock-shite-bastard-face-butt-fucking-pillock
+```typescript
+'bitch-jeb-jeb-arse-shite-bastard-arsehole-wanker-fucker-fuck-bastard-fuck-nob-damn-wank-fucked-wanker-nob-jeb-dick-git-piss-jeb-fucked-head-pillock-shite-bastard-face-butt-fucking-pillock'
 
-dickhead-wanking-piss-fuck-jeb-you-bellend-cock-head-butt-bugger-bastard-ass-shitting-bloody-asshole-dick-jeb-wank-pillock-piss-you-dickhead-arse-fucked-pillock-fucking-head-piss-fucked-crap-dick
+'dickhead-wanking-piss-fuck-jeb-you-bellend-cock-head-butt-bugger-bastard-ass-shitting-bloody-asshole-dick-jeb-wank-pillock-piss-you-dickhead-arse-fucked-pillock-fucking-head-piss-fucked-crap-dick'
 
-cunt-fucked-cunt-bollocks-git-bloody-prat-face-you-damn-dick-cunt-face-douche-bollocks-fuck-butt-fuck-fuck-fucking-jeb-twat-darn-tosser-bastard-you-prat-shit-dickhead-face-cunt-wanker
+'cunt-fucked-cunt-bollocks-git-bloody-prat-face-you-damn-dick-cunt-face-douche-bollocks-fuck-butt-fuck-fuck-fucking-jeb-twat-darn-tosser-bastard-you-prat-shit-dickhead-face-cunt-wanker'
 
-pillock-darn-dave-dave-nob-bell-cunt-face-prat-face-bastard-arse-ass-jeb-fuck-head-fucking-piss-arse-fucked-jeb-asshole-bugger-crap-prat-pillock-fucker-jeb-bellend-dave-bellend-tosser
+'pillock-darn-dave-dave-nob-bell-cunt-face-prat-face-bastard-arse-ass-jeb-fuck-head-fucking-piss-arse-fucked-jeb-asshole-bugger-crap-prat-pillock-fucker-jeb-bellend-dave-bellend-tosser'
 
-douche-dave-prick-cock-asshole-wanking-bellend-nob-wanker-shite-tosser-shite-butt-you-bastard-ass-wanker-shite-fucking-bell-jeb-arsehole-shitting-ass-git-butt-wanking-bellend-butt-douche-butt-shite
+'douche-dave-prick-cock-asshole-wanking-bellend-nob-wanker-shite-tosser-shite-butt-you-bastard-ass-wanker-shite-fucking-bell-jeb-arsehole-shitting-ass-git-butt-wanking-bellend-butt-douche-butt-shite'
 ```
 
 To get a censored version of an FUUID simply supply `true` as the only argument to the `fuuid` function.
@@ -58,6 +58,6 @@ console.log(fuuid(true));
 
 Example output:
 
-```
-***-***-***-****-****-***-****-********-****-****-****-****-****-****-********-******-****-****-****-*******-********-****-****-****-****-****-******-****-********-****-****-*******
+```typescript
+'***-***-***-****-****-***-****-********-****-****-****-****-****-****-********-******-****-****-****-*******-********-****-****-****-****-****-******-****-********-****-****-*******'
 ```
