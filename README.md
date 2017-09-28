@@ -8,9 +8,7 @@ Unlike a standard UUID, FUUID has the following benefits:
 
 2. More unique than most UUIDs
 
-3. Readable, and therefore great for URLs e.g.
-
-`https://domain.com/post/bugger-crap-shit-fuck-crap-fuck-twat-twat-fucked-arse-bitch-bitch-head-butt-fucking-shite-dick-bollocks-bastard-shit-crap-twat-crap-bastard-shitting-shitting-shite-fucking-twat-ass-you-twat`
+3. Readable, and therefore great for URLs e.g. `https://domain.com/post/bugger-crap-shit-fuck-crap-fuck-twat-twat-fucked-arse-bitch-bitch-head-butt-fucking-shite-dick-bollocks-bastard-shit-crap-twat-crap-bastard-shitting-shitting-shite-fucking-twat-ass-you-twat`
 
 ## Installation
 
