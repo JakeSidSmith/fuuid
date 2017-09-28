@@ -2,9 +2,12 @@
   "name": "fuuid",
   "version": "0.0.0",
   "description": "Fucking universally unique identifiers",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
-    "test": "npm run lint-js && npm run tests"
+    "lint-js": "tslint --project tsconfig.json --type-check '@(src|tests|types|docs)/**/*.@(ts|tsx)'",
+    "tests": "jest",
+    "test": "npm run lint-js && npm run tests -- --coverage"
   },
   "repository": {
     "type": "git",
@@ -23,5 +26,38 @@
   "bugs": {
     "url": "https://github.com/JakeSidSmith/fuuid/issues"
   },
-  "homepage": "https://github.com/JakeSidSmith/fuuid#readme"
+  "homepage": "https://github.com/JakeSidSmith/fuuid#readme",
+  "dependencies": {
+    "browserify": "14.4.0",
+    "tsify": "3.0.3",
+    "typescript": "2.5.3"
+  },
+  "devDependencies": {
+    "@types/jest": "19.2.3",
+    "jest": "20.0.3",
+    "ts-jest": "20.0.3",
+    "tslint": "5.7.0",
+    "tslint-eslint-rules": "4.1.1"
+  },
+  "jest": {
+    "coverageThreshold": {
+      "global": {
+        "branches": 100,
+        "functions": 100,
+        "lines": 100,
+        "statements": 100
+      }
+    },
+    "transform": {
+      "^.+\\.tsx?$": "<rootDir>/node_modules/ts-jest/preprocessor.js"
+    },
+    "testRegex": "(/tests/.*|\\.(test|spec))\\.(ts|tsx|js|jsx)$",
+    "moduleFileExtensions": [
+      "ts",
+      "tsx",
+      "js",
+      "jsx"
+    ],
+    "mapCoverage": true
+  }
 }
