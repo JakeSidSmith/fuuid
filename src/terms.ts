@@ -1,46 +1,27 @@
-export const terms = [
+export const terms = [ // 44 terms +
   'you', // Joiners
   'face',
   'head',
-  'fuck', // Sex
-  'fucking',
-  'fucked',
-  'fucker',
-  'wank', // Masturbation
-  'wanker',
-  'wanking',
-  'tosser',
-  'dick', // Penis
-  'dickhead',
-  'jeb',
-  'bell',
-  'bellend',
-  'cock',
-  'nob',
-  'prick',
-  'cunt', // Vagina
-  'twat',
-  'ass', // Bottom
-  'asshole',
-  'arse',
-  'arsehole',
+  'willy', // Penis
+  'winky',
+  'peepee',
+  'weeewee',
+  'bum', // Bottom
+  'bottom',
   'butt',
-  'shit', // Excrement
-  'shite',
-  'shitting',
-  'crap',
-  'piss',
-  'pissing',
-  'bugger', // Misc
-  'bastard',
-  'bitch',
-  'bollocks',
-  'damn',
-  'darn',
-  'bloody',
-  'git',
-  'pillock',
-  'prat',
-  'douche',
+  'butthole',
+  'poo', // Excrement
+  'poop',
+  'poopy',
+  'pee',
+  'wee',
+  'hoohoo', // Vagina
+  'hoohee',
+  'foofoo',
+  'bajingo',
+  'nincompoop', // Misc
+  'numpty',
+  'silly',
+  'stupid',
   'dave',
 ];
