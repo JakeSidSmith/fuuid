@@ -23,5 +23,8 @@ export const terms = [ // 44 terms +
   'numpty',
   'silly',
   'stupid',
+  'flip',
+  'flipping',
+  'sugar',
   'dave',
 ];
