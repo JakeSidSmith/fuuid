@@ -12,7 +12,7 @@ Unlike a standard UUID, FUUID has the following benefits:
 
 2. More unique than most UUIDs
 
-3. Readable, and therefore great for URLs e.g. `https://domain.com/post/cunt-fucked-cunt-bollocks-git-bloody-prat-face-you-damn-dick-cunt-face-douche-bollocks-fuck-butt-fuck-fuck-fucking-jeb-twat-darn-tosser-bastard-you-prat-shit-dickhead-face-cunt-wanker`
+3. Readable, and therefore great for URLs e.g. `https://domain.com/post/mr-poopy-butthole-balls-silly-numpty-dave-bum-balls-boob-fardled-lover-butthole-eater-bucket-weewee-jerk-nincompoop-bottom-pee-eater-boogers/`
 
 ## Installation
 
@@ -41,15 +41,15 @@ console.log(fuuid());
 Example output:
 
 ```typescript
-'bitch-jeb-jeb-arse-shite-bastard-arsehole-wanker-fucker-fuck-bastard-fuck-nob-damn-wank-fucked-wanker-nob-jeb-dick-git-piss-jeb-fucked-head-pillock-shite-bastard-face-butt-fucking-pillock'
+'peepee-jerk-foofoo-balls-weewee-nitwit-boobie-mrs-boobies-hoohoo-stupid-flipping-fudge-bogey-poop-numpty-pee-butt-sod-weewee-boobies-plonker'
 
-'dickhead-wanking-piss-fuck-jeb-you-bellend-cock-head-butt-bugger-bastard-ass-shitting-bloody-asshole-dick-jeb-wank-pillock-piss-you-dickhead-arse-fucked-pillock-fucking-head-piss-fucked-crap-dick'
+'dillweed-boob-lover-frolicking-boobs-sugar-butthole-balls-boogers-bum-mrs-poop-shazbot-wazzock-nincompoop-pillock-boob-foofoo-dave-harpy-weewee-butthole'
 
-'cunt-fucked-cunt-bollocks-git-bloody-prat-face-you-damn-dick-cunt-face-douche-bollocks-fuck-butt-fuck-fuck-fucking-jeb-twat-darn-tosser-bastard-you-prat-shit-dickhead-face-cunt-wanker'
+'bajingo-boobie-boob-prat-silly-booger-wazzock-crud-peepee-bajingo-person-numpty-weewee-bogey-boobie-eater-person-wee-darn-weewee-pillock-mr'
 
-'pillock-darn-dave-dave-nob-bell-cunt-face-prat-face-bastard-arse-ass-jeb-fuck-head-fucking-piss-arse-fucked-jeb-asshole-bugger-crap-prat-pillock-fucker-jeb-bellend-dave-bellend-tosser'
+'cuckoo-boobie-bucket-cuckoo-boobs-silly-flipping-boobs-silly-foofoo-eater-nincompoop-harpy-flipping-sodding-booger-pillock-lover-fardled-bajingo-butthole-sugar'
 
-'douche-dave-prick-cock-asshole-wanking-bellend-nob-wanker-shite-tosser-shite-butt-you-bastard-ass-wanker-shite-fucking-bell-jeb-arsehole-shitting-ass-git-butt-wanking-bellend-butt-douche-butt-shite'
+'mr-poopy-butthole-balls-silly-numpty-dave-bum-balls-boob-fardled-lover-butthole-eater-bucket-weewee-jerk-nincompoop-bottom-pee-eater-boogers'
 ```
 
 To get a censored version of an FUUID simply supply `true` as the only argument to the `fuuid` function.
@@ -61,5 +61,5 @@ console.log(fuuid(true));
 Example output:
 
 ```typescript
-'***-***-***-****-****-***-****-********-****-****-****-****-****-****-********-******-****-****-****-*******-********-****-****-****-****-****-******-****-********-****-****-*******'
+'*****-*******-****-******-******-****-*******-***-****-***-****-*******-*********-****-*******-*****-***-**-******-******-*********-*****'
 ```
