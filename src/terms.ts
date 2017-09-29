@@ -32,5 +32,7 @@ export const terms = [ // 44 terms +
   'sugar',
   'fudge',
   'fudging',
+  'bogey',
+  'snot',
   'dave',
 ];
