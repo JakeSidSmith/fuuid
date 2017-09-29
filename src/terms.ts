@@ -38,6 +38,7 @@ export const terms = [
   'flip',
   'flipping',
   'freaking',
+  'frolicking',
   'fudge',
   'fudging',
   'sugar',
@@ -52,6 +53,8 @@ export const terms = [
   'crud',
   'darn',
   'dillweed',
+  'scoundrel',
+  'harpy',
   'you', // Misc
   'face',
   'head',
@@ -60,5 +63,6 @@ export const terms = [
   'lover',
   'mr',
   'mrs',
+  'person',
   'dave',
 ];
