@@ -31,8 +31,10 @@ export const terms = [
   'sugar',
   'fudge',
   'fudging',
+  'booger',
+  'boogers',
   'bogey',
-  'snot',
+  'bogies',
   'you', // Misc
   'face',
   'head',
