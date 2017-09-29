@@ -1,4 +1,4 @@
-export const terms = [ // 44 terms +
+export const terms = [
   'you', // Joiners
   'face',
   'head',
