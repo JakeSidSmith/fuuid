@@ -1,6 +1,8 @@
 # FUUID [![CircleCI](https://circleci.com/gh/JakeSidSmith/fuuid.svg?style=svg)](https://circleci.com/gh/JakeSidSmith/fuuid)
 
-**Fucking universally unique identifiers**
+**Flipping universally unique identifiers**
+
+For a var more obscene variation (but with longer length), check out version 1.
 
 ## About
 

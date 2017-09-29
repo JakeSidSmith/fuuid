@@ -1,7 +1,7 @@
 {
   "name": "fuuid",
   "version": "1.0.3",
-  "description": "Fucking universally unique identifiers",
+  "description": "Flipping universally unique identifiers",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
