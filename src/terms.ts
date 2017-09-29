@@ -19,6 +19,10 @@ export const terms = [ // 44 terms +
   'hoohee',
   'foofoo',
   'bajingo',
+  'boob', // ( . Y . )
+  'boobs',
+  'boobie',
+  'boobies',
   'nincompoop', // Misc
   'numpty',
   'silly',
