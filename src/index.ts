@@ -1,3 +1,4 @@
+import { LENGTH } from './constants';
 import { terms } from './terms';
 
 const MATCHES_LETTER = /[a-z]/g;
@@ -5,7 +6,7 @@ const MATCHES_LETTER = /[a-z]/g;
 export function fuuid (censor?: boolean): string {
   let value = '';
 
-  for (let i = 0; i < 32; i += 1) {
+  for (let i = 0; i < LENGTH; i += 1) {
     if (i > 0) {
       value += '-';
     }
