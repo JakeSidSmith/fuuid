@@ -1,16 +1,14 @@
 export const terms = [
-  'you', // Joiners
-  'face',
-  'head',
   'willy', // 8==>
   'winky',
   'peepee',
-  'weeewee',
+  'weewee',
   'bum', // (_(_)
   'bumbum',
   'bottom',
   'butt',
   'butthole',
+  'balls',
   'poo', // &
   'poop',
   'poopy',
@@ -24,7 +22,7 @@ export const terms = [
   'boobs',
   'boobie',
   'boobies',
-  'nincompoop', // Misc
+  'nincompoop', // Misc Rude
   'numpty',
   'silly',
   'stupid',
@@ -35,5 +33,10 @@ export const terms = [
   'fudging',
   'bogey',
   'snot',
+  'you', // Misc
+  'face',
+  'head',
+  'mr',
+  'mrs',
   'dave',
 ];
