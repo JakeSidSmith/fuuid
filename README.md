@@ -2,7 +2,7 @@
 
 **Flipping universally unique identifiers**
 
-For a var more obscene variation (but with longer length), check out version 1.
+*For a far more obscene variation (but with longer length), check out version 1. Version 1 had 32 terms per FUUID, but version 2 only has 22.*
 
 ## About
 
