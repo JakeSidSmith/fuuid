@@ -2,8 +2,8 @@ import { fuuid } from '../src/';
 import { LENGTH } from '../src/constants';
 import { terms } from '../src/terms';
 
-const MATCHES_FUUID = /^[a-z]+(?:-[a-z]+){15}$/;
-const MATCHES_CENSORED_FUUID = /^\*+(?:-\*+){15}$/;
+const MATCHES_FUUID = /^[a-z]+(?:-[a-z]+){21}$/;
+const MATCHES_CENSORED_FUUID = /^\*+(?:-\*+){21}$/;
 
 const UUID_CHAR_COUNT = 16;
 const UUID_LENGTH = 32;
@@ -18,7 +18,7 @@ describe('fuuid', () => {
     expect(typeof fuuid()).toBe('string');
   });
 
-  it('generates a 16 term string with hyphen separators', () => {
+  it('generates a 22 term string with hyphen separators', () => {
     expect(MATCHES_FUUID.test(fuuid())).toBe(true);
   });
 
