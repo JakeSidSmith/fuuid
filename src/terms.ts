@@ -24,7 +24,13 @@ export const terms = [
   'boobies',
   'nincompoop', // Misc Rude
   'numpty',
+  'wazzock',
+  'nitwit',
+  'jerk',
+  'twit',
   'silly',
+  'cuckoo',
+  'crazy',
   'stupid',
   'flip',
   'flipping',
@@ -38,6 +44,8 @@ export const terms = [
   'you', // Misc
   'face',
   'head',
+  'eater',
+  'lover',
   'mr',
   'mrs',
   'dave',
