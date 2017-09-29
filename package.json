@@ -31,10 +31,8 @@
   "dependencies": {},
   "devDependencies": {
     "@types/jest": "19.2.3",
-    "browserify": "14.4.0",
     "jest": "20.0.3",
     "ts-jest": "20.0.3",
-    "tsify": "3.0.3",
     "tslint": "5.7.0",
     "tslint-eslint-rules": "4.1.1",
     "typescript": "2.5.3"
