@@ -2,20 +2,20 @@ export const terms = [ // 44 terms +
   'you', // Joiners
   'face',
   'head',
-  'willy', // Penis
+  'willy', // 8==>
   'winky',
   'peepee',
   'weeewee',
-  'bum', // Bottom
+  'bum', // (_(_)
   'bottom',
   'butt',
   'butthole',
-  'poo', // Excrement
+  'poo', // &
   'poop',
   'poopy',
   'pee',
   'wee',
-  'hoohoo', // Vagina
+  'hoohoo', // {'}
   'hoohee',
   'foofoo',
   'bajingo',
