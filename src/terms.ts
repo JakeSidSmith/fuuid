@@ -7,6 +7,7 @@ export const terms = [ // 44 terms +
   'peepee',
   'weeewee',
   'bum', // (_(_)
+  'bumbum',
   'bottom',
   'butt',
   'butthole',
