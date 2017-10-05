@@ -31,4 +31,12 @@ describe('fuuid', () => {
       .toBeGreaterThan(getVariationCount(UUID_CHAR_COUNT, UUID_LENGTH));
   });
 
+  it('should contain only valid terms', () => {
+    const id = fuuid();
+    const words = id.split('-');
+    expect(words).toHaveLength(LENGTH);
+    words.forEach((word) => {
+      expect(terms).toContain(word);
+    });
+  });
 });
